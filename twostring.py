@@ -1,7 +1,9 @@
-str1=input("enter the two word string")
-def name():
-    if str1[0] == str1[6]:
-        return true
+str1 = input("enter the two word string : ")
+def name() :
+    x = str1.split(' ')
+    print(x)
+    if x[0][0] == x[1][0]:
+        return True
     else:
-        return false
-name()
+        return False
+print(name())
