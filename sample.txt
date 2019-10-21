@@ -1,0 +1,3 @@
+this is python programming
+python programming is a easy way of writing a codes
+it is similar to c and c++This is an assembly level langauge
