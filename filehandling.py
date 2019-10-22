@@ -21,7 +21,7 @@
 #   print(each)
 
 
-#to append meand to add data to the existing file
+#to append the data means to add data to the existing file
 # new_file=open('sample.txt', 'a')
 # new_file.write("This is an assembly level langauge")
 # new_file.close()
@@ -37,7 +37,7 @@
 
 #to take curson to some position and read and write the data
 # with open('sample1.txt', 'w') as f:
-#     f.write("salman ")
+#     f.write("salman")
 #     f.seek(9)
 #     f.write('Ahmed')
 #
